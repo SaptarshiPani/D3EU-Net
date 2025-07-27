@@ -24,9 +24,9 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
 
 <img width="855" height="470" alt="Image" src="https://github.com/user-attachments/assets/7ced0e3e-0143-491a-8271-1e84110cd9ec" />
 
-
-
 6b. Training curves displaying the history of loss while training the model's performance on MonuSeg dataset.
+
+<img width="854" height="470" alt="Image" src="https://github.com/user-attachments/assets/e2765998-b55f-42fe-ae3f-8a9aa8a4ff05" />
 
 7a. Heatmap images displaying some noisy images from TNBC dataset.
 
