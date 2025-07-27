@@ -33,3 +33,5 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
 <img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/d2c3cb5f-b416-4a03-9134-caf603223752" />
 
 7b. Heatmap images displaying some noisy images from MonuSeg dataset.
+
+<img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/8277f8c2-2f1a-45ca-ac09-a08dd350dd2b" />
