@@ -18,6 +18,8 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
 
 5b. Diffusion Noising-Denoising process on MonuSeg dataset.
 
+<img width="1575" height="409" alt="Image" src="https://github.com/user-attachments/assets/179437df-e831-4af7-b491-f7fb22c905b1" />
+
 6a. Training curves displaying the history of loss while training the model's performance on TNBC dataset.
 
 <img width="855" height="470" alt="Image" src="https://github.com/user-attachments/assets/7ced0e3e-0143-491a-8271-1e84110cd9ec" />
