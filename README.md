@@ -11,3 +11,17 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
 4. SOTA Comparison Results on TNBC and MonuSeg datasets.
 
 <img width="417" height="232" alt="Image" src="https://github.com/user-attachments/assets/229ad300-4d50-444d-a630-3935f4387a69" />
+
+5a. Diffusion Noising-Denoising process on TNBC dataset.
+
+<img width="1575" height="409" alt="Image" src="https://github.com/user-attachments/assets/c8cdca9d-4c25-4d00-8887-09170d13c589" />
+
+5b. Diffusion Noising-Denoising process on MonuSeg dataset.
+
+6a. Training curves displaying the history of loss while training the model's performance on TNBC dataset.
+
+6b. Training curves displaying the history of loss while training the model's performance on MonuSeg dataset.
+
+7a. Heatmap images displaying some test images from TNBC dataset.
+
+7b. Heatmap images displaying some test images from MonuSeg dataset.
