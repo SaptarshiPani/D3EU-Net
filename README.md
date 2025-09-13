@@ -3,7 +3,7 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
 1. Workflow of overall D3EU-Net model.
 
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c918572c-1705-4f1d-a121-74215b83c534" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/bd1daea8-2292-4ecd-9459-4f2afb9d559f" />
 
 2. Ablation Study Results on TNBC and MonuSeg datasets.
 
