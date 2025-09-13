@@ -1,8 +1,6 @@
 Title - "D3EU-Net: A Diffusion and DeepSeek-aided Dual Encoder-based U-Net Model for Microscopic Medical Image Segmentation". <br />
 Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
-Additional Results :-
-
 1. Workflow of overall D3EU-Net model.
 
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c918572c-1705-4f1d-a121-74215b83c534" />
