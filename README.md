@@ -27,7 +27,7 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
 6c. Diffusion Noising-Denoising process on GlaS dataset.
 
-<img width="1575" height="409" alt="Image" src="https://github.com/user-attachments/assets/179437df-e831-4af7-b491-f7fb22c905b1" />
+<img width="1575" height="409" alt="Image" src="https://github.com/user-attachments/assets/c6c259bf-6eff-4554-9ba4-db50cdc4de56" />
 
 7a. Training curves displaying the history of loss while training the model's performance on TNBC dataset.
 
