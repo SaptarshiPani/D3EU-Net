@@ -25,6 +25,10 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
 <img width="1575" height="409" alt="Image" src="https://github.com/user-attachments/assets/179437df-e831-4af7-b491-f7fb22c905b1" />
 
+6c. Diffusion Noising-Denoising process on GlaS dataset.
+
+<img width="1575" height="409" alt="Image" src="https://github.com/user-attachments/assets/179437df-e831-4af7-b491-f7fb22c905b1" />
+
 7a. Training curves displaying the history of loss while training the model's performance on TNBC dataset.
 
 <img width="855" height="470" alt="Image" src="https://github.com/user-attachments/assets/7ced0e3e-0143-491a-8271-1e84110cd9ec" />
@@ -33,11 +37,7 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
 <img width="854" height="470" alt="Image" src="https://github.com/user-attachments/assets/e2765998-b55f-42fe-ae3f-8a9aa8a4ff05" />
 
-8a. Training curves displaying the history of loss while training the model's performance on TNBC dataset.
-
-<img width="855" height="470" alt="Image" src="https://github.com/user-attachments/assets/7ced0e3e-0143-491a-8271-1e84110cd9ec" />
-
-8b. Training curves displaying the history of loss while training the model's performance on MonuSeg dataset.
+7c. Training curves displaying the history of loss while training the model's performance on GlaS dataset.
 
 <img width="854" height="470" alt="Image" src="https://github.com/user-attachments/assets/e2765998-b55f-42fe-ae3f-8a9aa8a4ff05" />
 
@@ -46,6 +46,10 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 <img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/d2c3cb5f-b416-4a03-9134-caf603223752" />
 
 9b. Heatmap images displaying some noisy images from MonuSeg dataset.
+
+<img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/8277f8c2-2f1a-45ca-ac09-a08dd350dd2b" />
+
+9c. Heatmap images displaying some noisy images from GlaS dataset.
 
 <img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/8277f8c2-2f1a-45ca-ac09-a08dd350dd2b" />
 
