@@ -7,7 +7,7 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
 2. Ablation Study Results on TNBC and MonuSeg datasets.
 
-<img width="411" height="255" alt="Image" src="https://github.com/user-attachments/assets/bb885317-c133-4091-9432-b012669bb3e3" />
+<img width="381" height="333" alt="Image" src="https://github.com/user-attachments/assets/7584548e-b11c-4c61-9939-dedd6a628b89" />
 
 4. SOTA Comparison Results on TNBC and MonuSeg datasets.
 
