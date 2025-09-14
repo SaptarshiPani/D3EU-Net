@@ -41,22 +41,26 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
 <img width="854" height="470" alt="Image" src="https://github.com/user-attachments/assets/e2765998-b55f-42fe-ae3f-8a9aa8a4ff05" />
 
-9a. Heatmap images displaying some noisy images from TNBC dataset.
+8a. Heatmap images displaying some noisy images from TNBC dataset.
 
 <img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/d2c3cb5f-b416-4a03-9134-caf603223752" />
 
-9b. Heatmap images displaying some noisy images from MonuSeg dataset.
+8b. Heatmap images displaying some noisy images from MonuSeg dataset.
 
 <img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/8277f8c2-2f1a-45ca-ac09-a08dd350dd2b" />
 
-9c. Heatmap images displaying some noisy images from GlaS dataset.
+8c. Heatmap images displaying some noisy images from GlaS dataset.
 
 <img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/8277f8c2-2f1a-45ca-ac09-a08dd350dd2b" />
 
-10a. Sample DeepSeek-R1 generated text for TNBC dataset :- <br />
+9a. Sample DeepSeek-R1 generated text for TNBC dataset :- <br />
 
 "Based on the exceptionally detailed morphological account, which is highly characteristic of a high-grade invasive breast carcinoma, several critical diagnostic insights can be elaborated. The described high cellularity and marked nuclear pleomorphism encompassing both ovoid and spindled forms are hallmark features of a poorly differentiated neoplasm, often correlating with aggressive biological behavior and high histological grade (Grade 3). The alignment of these hyperchromatic, mitotically active nuclei along eosinophilic collagenous stroma is highly suggestive of an invasive carcinoma with a scirrhous or desmoplastic pattern, where the malignant cells induce a profound host stromal response. The prominent nuclear overlapping and concave junctions indicate a loss of cellular cohesion and a crowded, syncytial-like growth pattern, frequently seen in basal-like or triple-negative breast cancers. Furthermore, the dense chromatin and occasional prominent nucleoli are cytological features associated with high proliferative activity and potential mutations in the p53 tumor suppressor gene. The anisotropic stromal patterns and low-contrast zones are not merely background artifact but represent critical contextual clues; the invading tumor cells are intricately associated with and disrupting the native breast architecture, and the pale, ill-defined cytoplasm can often lead to under-estimation of nuclear size and confound automated image analysis, necessitating careful manual review. In sum, this constellation of features strongly argues against a benign or low-grade lesion and points toward an invasive carcinoma of no special type (NST) with likely basal-like characteristics, warranting confirmation with immunohistochemical staining for cytokeratins (CK5/6, CK14), EGFR, and triple-negative markers (ER, PR, HER2)."
 
-8b. Sample DeepSeek-R1 generated text for MonuSeg dataset :- <br />
+9b. Sample DeepSeek-R1 generated text for MonuSeg dataset :- <br />
+
+""
+
+9c. Sample DeepSeek-R1 generated text for GlaS dataset :- <br />
 
 ""
