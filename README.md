@@ -39,7 +39,7 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
 7c. Training curves displaying the history of loss while training the model's performance on GlaS dataset.
 
-<img width="854" height="470" alt="Image" src="https://github.com/user-attachments/assets/e2765998-b55f-42fe-ae3f-8a9aa8a4ff05" />
+<img width="846" height="470" alt="Image" src="https://github.com/user-attachments/assets/81ca6aad-22d3-4890-8da7-8a646364f8d6" />
 
 8a. Heatmap images displaying some noisy images from TNBC dataset.
 
@@ -51,7 +51,7 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 
 8c. Heatmap images displaying some noisy images from GlaS dataset.
 
-<img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/8277f8c2-2f1a-45ca-ac09-a08dd350dd2b" />
+<img width="1571" height="795" alt="Image" src="https://github.com/user-attachments/assets/085a85cb-8e5f-4e8f-af1f-efd2ce757e42" />
 
 9a. Sample DeepSeek-R1 generated text for TNBC dataset :- <br />
 
