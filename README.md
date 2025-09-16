@@ -12,7 +12,7 @@ Authors - Saptarshi Pani, Asya Lyanova, Dmitrii Kaplun, Ram Sarkar. <br />
 4. SOTA Comparison Results on TNBC and MonuSeg datasets.
 
 <img width="417" height="232" alt="Image" src="https://github.com/user-attachments/assets/229ad300-4d50-444d-a630-3935f4387a69" />
-<img width="366" height="173" alt="Image" src="https://github.com/user-attachments/assets/505fd9b1-4359-4d36-9bab-af1d79924a1e" />
+<img width="358" height="152" alt="Image" src="https://github.com/user-attachments/assets/8fdb5f90-4d77-40f3-b2cc-00516389f2cd" />
 
 5. Computational Time Analysis on the 3 datasets.
 
